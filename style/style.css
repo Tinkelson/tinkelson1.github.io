@@ -1,0 +1,15 @@
+img {
+    display: block;
+    padding-left: 38%;
+    height: 800px;
+    z-index: 1;
+}
+.go {
+    margin-top: 50px;
+    color: black
+    font-weight: 700;
+    line-height: 48px;
+    text-align: center;
+    text-transform: uppercase;
+    z-index: 2;
+}
